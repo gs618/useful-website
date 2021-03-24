@@ -1,10 +1,5 @@
-# 等待整理
+# nice websites
 
-### 书行天下  
-https://www.sxpdf.com
+[books](https://github.com/gs618/useful-website/tree/master/books/README.md)
 
-### 书伴
-https://bookfere.com/
-
-### 鸠摩
-https://www.jiumodiary.com/
+[vpn](https://github.com/gs618/useful-website/tree/master/vpn/README.md)
